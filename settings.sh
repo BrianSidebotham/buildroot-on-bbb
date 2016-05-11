@@ -1,0 +1,3 @@
+#!/bin/sh
+
+BUILDROOT_VERSION=2016.02
